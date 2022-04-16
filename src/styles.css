@@ -6,7 +6,8 @@ html, body {
   margin: 0;
   border: 0;
   padding: 0;
-  background-color: #fff;
+  color: white;
+  background-color: black;
 }
 
 main {
